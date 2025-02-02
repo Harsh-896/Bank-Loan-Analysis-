@@ -7,5 +7,6 @@ Loan Status Analysis: Understanding the status of loans (approved, declined, pai
 Customer Profiling: Analyzing borrower characteristics, such as income and credit history, to identify trends among high-risk and low-risk borrowers.
 Repayment Behavior: Evaluating repayment patterns to enhance collection strategies and minimize defaults.
 Loan Purpose Evaluation: Examining the reasons for borrowing and their correlation with repayment success.
-## Dataset link:
+## Dataset used:
+- <a href= "https://github.com/Harsh-896/Bank-Loan-Analysis-/blob/main/financial_loan.csv">Dtaset<a/>
 
