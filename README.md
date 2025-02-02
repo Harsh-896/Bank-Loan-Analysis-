@@ -11,8 +11,13 @@ Loan Purpose Evaluation: Examining the reasons for borrowing and their correlati
 - <a href= "https://github.com/Harsh-896/Bank-Loan-Analysis-/blob/main/financial_loan.csv">Dataset<a/>
 ## Key Performance Indicators (KPIs):
 1.Total Loan Applications:calculate the total number of loan applications received during a specified period.
+
 2.Total Funded Amount:the total amount of funds disbursed as loans is crucial
+
 3.Total Amount Received:Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment
+
 4.Average Interest Rate: Calculating the average interest rate across all loans
-5.Average Debt-to-Income Ratio (DTI):Evaluating the average DTI for our borrowers helps us gauge their financial health. 
+
+5.Average Debt-to-Income Ratio (DTI):Evaluating the average DTI for our borrowers helps us gauge their financial health.
+
 
