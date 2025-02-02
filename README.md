@@ -24,11 +24,13 @@ Loan Purpose Evaluation: Examining the reasons for borrowing and their correlati
 - <a href ="https://github.com/Harsh-896/Bank-Loan-Analysis-/blob/main/img2.png">Image2</a>
 - <a href ="https://github.com/Harsh-896/Bank-Loan-Analysis-/blob/main/img3.png">Image3</a>
 # Insights :
-1.Monthly Trends by Issue Date :  To identify seasonality and long-term trends in lending activities
-- 2.Regional Analysis by State : To identify regions with significant lending activity and assess regional disparities
-3.Loan Term Analysis : To allow the client to understand the distribution of loans across various term lengths.
-4.Employee Length Analysis : How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
-5.Loan Purpose Breakdown : Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
-6. Home Ownership Analysis: For a hierarchical view of how home ownership impacts loan applications and disbursements.
+- Monthly Trends by Issue Date :  To identify seasonality and long-term trends in lending activities
+- Regional Analysis by State : To identify regions with significant lending activity and assess regional disparities
+- Loan Term Analysis : To allow the client to understand the distribution of loans across various term lengths.
+- Employee Length Analysis : How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment 
+  history on loan applications.
+- Loan Purpose Breakdown : Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary 
+  reasons borrowers seek financing.
+- Home Ownership Analysis: For a hierarchical view of how home ownership impacts loan applications and disbursements.
 
 
