@@ -21,4 +21,5 @@ Loan Purpose Evaluation: Examining the reasons for borrowing and their correlati
 5.Average Debt-to-Income Ratio (DTI):Evaluating the average DTI for our borrowers helps us gauge their financial health.
 # Dashboard:
 - <a href= "https://github.com/Harsh-896/Bank-Loan-Analysis-/blob/main/img1.png">Image1</a>
+https://github.com/Harsh-896/Bank-Loan-Analysis-/blob/main/img2.png
 
